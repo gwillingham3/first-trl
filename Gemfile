@@ -54,4 +54,4 @@ gem "devise"
 gem "devise-guests", "~> 0.3"
 gem "friendly_id"
 gem "social-share-button"
-gem 'rails_12factor'
+gem 'rails_12factor', :groups => [:development, :test, :production]
