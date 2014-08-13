@@ -28,7 +28,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'sunspot_solr', group: :development
+gem 'sunspot_solr'
 gem 'sunspot_rails'
 
 gem 'bootswatch-rails'
