@@ -1,0 +1,22 @@
+#documents.gallery {
+  .document {
+    border-bottom: none;
+    min-height: 400px;
+  }
+
+  .index_title {
+    width: 100%;
+  }
+
+  .document-counter {
+    display: none;
+  }
+
+  .index-document-functions {
+    clear: left;
+  }
+}
+
+.view-icon-gallery {
+  &:before { content: "\e011"; } 
+}
