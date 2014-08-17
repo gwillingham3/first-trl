@@ -1,1 +1,1 @@
-"web: bundle exec rails server thin -p $PORT -c ./config/thin.rb" 
+"web: bundle exec rails server thin start -p $PORT -c ./config/thin.rb" 
