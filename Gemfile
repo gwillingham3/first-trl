@@ -18,7 +18,7 @@ gem 'therubyracer',  platforms: :ruby
 
 gem 'thin'
 
-gem 'foreman', '~> 0.61'
+gem 'foreman', '0.61'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
