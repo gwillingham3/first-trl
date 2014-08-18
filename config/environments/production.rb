@@ -4,6 +4,9 @@ Rails.application.configure do
   # Code is not reloaded between requests.
   config.cache_classes = true
   
+  config.secret_key_base = 'b3c495073b07006656a87c5c0a0417a58e2637de07381260844f30694f3e576bf4c272ba9e78ae82
+99a3815fce5d0562c84e2a998d893f4772b912d8d342f763'
+  
   config.assets.initialize_on_precompile = false
 
   # Eager load code on boot. This eager loads most of Rails and
@@ -38,7 +41,7 @@ Rails.application.configure do
   config.assets.version = '1.0'
 
   # Specifies the header that your server uses for sending files.
-  config.action_dispatch.x_sendfile_header = "X-Sendfile" # for apache
+  # config.action_dispatch.x_sendfile_header = "X-Sendfile" # for apache
   # config.action_dispatch.x_sendfile_header = 'X-Accel-Redirect' # for nginx
 
   # Force all access to the app over SSL, use Strict-Transport-Security, and use secure cookies.
