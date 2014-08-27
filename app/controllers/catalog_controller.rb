@@ -32,7 +32,7 @@ class CatalogController < ApplicationController
     # solr field configuration for search results/index views
     config.index.title_field = 'Title_display'
     config.index.display_type_field = 'format'
-	  config.index.thumbnail_field = 
+	  config.index.thumbnail_field = 'Image'
 
     # solr field configuration for document/show views
     config.show.title_field = 'title_display'
@@ -81,11 +81,10 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
-	  config.add_index_field 'thumbnail_display', :label => 'Thumbnail'
     config.add_index_field 'title_display', :label => 'Title'
+    config.add_index_field 'Title', :label => 'Title'
     config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'Provider', :label => 'Provider'
-    config.add_index_field 'Title', :label => 'Title'
     config.add_index_field 'author_display', :label => 'Author'
     config.add_index_field 'author_vern_display', :label => 'Author'
     config.add_index_field 'format', :label => 'Format'
@@ -96,7 +95,6 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display
-	  config.add_show_field 'thumbnail_display', :label => 'Thumbnail'
     config.add_show_field 'title_display', :label => 'Title'
     config.add_show_field 'title_vern_display', :label => 'Title'
     config.add_show_field 'Provider', :label => 'Provider'
