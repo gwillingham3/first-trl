@@ -1,0 +1,1786 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PowerMyLearningresource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <add>
+	<doc>
+		<field name="Provider">StatTrek.com</field>
+		<field name="Title">Random Number Generator</field>
+		<field name="Description">Generate random numbers quickly and easily.</field>
+		<field name="URL">http://stattrek.com/statistics/random-number-generator.aspx</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7904.png</field>
+		<field name="Grades">7-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">7.SP.A.2</field>
+		<field name="Activity_Type">Create,Explore</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">1</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Multiply Whole by Mixed Numbers: Break-it-Apart</field>
+		<field name="Description">Use the break-apart method, in this lesson, to learn how to multiply whole numbers by mixed numbers.</field>
+		<field name="URL">https://learnzillion.com/lessons/211</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9066.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">2</field>
+	</doc>
+	<doc>
+		<field name="Provider">MrNussbaum.com</field>
+		<field name="Title">Bedtime Bandits</field>
+		<field name="Description">Earn a later bedtime by blasting the clock with the correct analog time on it in Bedtime Bandits.</field>
+		<field name="URL"> http://mrnussbaum.com/bedtime-bandits-ipad.html </field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12056.png</field>
+		<field name="Grades">1-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7, 3.MD.A.1</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">3</field>
+	</doc>
+	<doc>
+		<field name="Provider">SheppardSoftware.com</field>
+		<field name="Title">Clock Shoot</field>
+		<field name="Description">Shoot the correct digital clock time when it matches your analog clock to earn a high score.</field>
+		<field name="URL">http://www.sheppardsoftware.com/mathgames/earlymath/clock_shoot.swf </field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11882.png</field>
+		<field name="Grades">1-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Play</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">4</field>
+	</doc>
+	<doc>
+		<field name="Provider">ABC.com</field>
+		<field name="Title">Match Up Time</field>
+		<field name="Description">Time to hang out with the bunnies and birds as you turn over cards to match the clock to the watch.</field>
+		<field name="URL">http://www.abc.net.au/countusin/games/files/memory.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10497.png</field>
+		<field name="Grades">1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">5</field>
+	</doc>
+	<doc>
+		<field name="Provider">TSL Education</field>
+		<field name="Title">Set the Clock</field>
+		<field name="Description">Move the hands on the analog clock to match the time spoken when you set the clock.</field>
+		<field name="URL">http://www.iboard.co.uk/iwb/Set-the-Clock-Getting-Started-1432</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8291.png</field>
+		<field name="Grades">1-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">6</field>
+	</doc>
+	<doc>
+		<field name="Provider">Oswego</field>
+		<field name="Title">Stop the Clock</field>
+		<field name="Description">It's a race against time! Try to stop the clock by matching the times on analog and digital clocks.</field>
+		<field name="URL">http://media.powermylearning.org//content/assets/dlaimages/12878.png</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12878.png</field>
+		<field name="Grades">1-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">7</field>
+	</doc>
+	<doc>
+		<field name="Provider">K6 Think Central</field>
+		<field name="Title">Clock-aDoodle-Doo: Time to the Nearest Hour</field>
+		<field name="Description">Practice telling time to the nearest hour in this journey through the different ways to read clocks.</field>
+		<field name="URL">http://media.powermylearning.org//content/assets/dlaimages/13097.png</field>
+		<field name="Image">https://www-k6.thinkcentral.com/content/hsp/math/hspmath/na/common/mega_math_9780547585062_/megamathcd1/cm/launch.html?strActivityName=g13_1_4_G&amp;strAssignID=1</field>
+		<field name="Grades">1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">8</field>
+	</doc>
+	<doc>
+		<field name="Provider">PBS LearningMedia</field>
+		<field name="Title">Find the Time</field>
+		<field name="Description">Tick Tock, Tick Tock, can you find the time on the clocks in the room?</field>
+		<field name="URL">http://www.gpbkids.org/countonit/1stgrade/clock/</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10494.png</field>
+		<field name="Grades">1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">9</field>
+	</doc>
+	<doc>
+		<field name="Provider">McGraw-Hill</field>
+		<field name="Title">Telling Time</field>
+		<field name="Description">All of the clocks fell on the floor! Help Clara and her friends get the clocks back on the shelves.</field>
+		<field name="URL">http://www.mhschool.com/math/mathconnects/assets/mhln/00140850/00140850.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11894.png</field>
+		<field name="Grades">1-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">10</field>
+	</doc>
+	<doc>
+		<field name="Provider">Arcademics</field>
+		<field name="Title">Giraffe Pull</field>
+		<field name="Description">Is it half past four? Use your time-telling skills to compete in this game of giraffe tug-of-war.</field>
+		<field name="URL">http://www.arcademics.com/games/giraffe-pull/giraffe-pull.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11883.png</field>
+		<field name="Grades">1-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">11</field>
+	</doc>
+	<doc>
+		<field name="Provider">HoughtonMifflinHarcourt</field>
+		<field name="Title">Willy the Watchdog</field>
+		<field name="Description">Roll the dice, land on the digital clock, and set the analog clock time when you play with a friend.</field>
+		<field name="URL">http://www.harcourtschool.com/activity/willy/willy.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12053.png</field>
+		<field name="Grades">1-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">12</field>
+	</doc>
+	<doc>
+		<field name="Provider">HoughtonMifflinHarcourt</field>
+		<field name="Title">Telling Time</field>
+		<field name="Description">Hear the whistle sing through the air when you match the time on an analog clock to a digital one.</field>
+		<field name="URL">http://learnenglishkids.britishcouncil.org/en/fun-games/whats-the-time</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10637.png</field>
+		<field name="Grades">1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">13</field>
+	</doc>
+	<doc>
+		<field name="Provider">IXL</field>
+		<field name="Title">Match Analog and Digital Clocks</field>
+		<field name="Description">Match analog to digital time in this multiple choice activity.</field>
+		<field name="URL">http://www.ixl.com/math/grade-1/match-analog-and-digital-clocks</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12879.png</field>
+		<field name="Grades">1-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">14</field>
+	</doc>
+	<doc>
+		<field name="Provider">Scholastic</field>
+		<field name="Title">Time Travelin'</field>
+		<field name="Description">Collect objects as you fly through outer space and reset your spaceship clock when it goes haywire.</field>
+		<field name="URL">http://www.scholastic.com/play/time.htm</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12855.png</field>
+		<field name="Grades">1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">15</field>
+	</doc>
+	<doc>
+		<field name="Provider">West Midlands</field>
+		<field name="Title">Clock</field>
+		<field name="Description">Click on the minute increments to see the relationship between numbers and analog time.</field>
+		<field name="URL">http://www.wmnet.org.uk/wmnet/custom/files_uploaded/uploaded_resources/503/clock.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8270.png</field>
+		<field name="Grades">1-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">16</field>
+	</doc>
+	<doc>
+		<field name="Provider">IXL</field>
+		<field name="Title">Do the Ratios Form a Proportion</field>
+		<field name="Description">Recognize</field>
+		<field name="URL">http://www.ixl.com/math/grade-7/do-the-ratios-form-a-proportion-word-problems</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8494.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Ratios and Proportional Relationships</field>
+		<field name="Standards">6.RP.A.1, 6.RP.A.2</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">17</field>
+	</doc>
+	<doc>
+		<field name="Provider">MathPortal.org</field>
+		<field name="Title">Adding and Subtracting Rational Expressions</field>
+		<field name="Description">Add and subtract rational expressions with the same denominator while completing practice problems.</field>
+		<field name="URL">http://www.mathportal.org/algebra/rational-expressions/adding-subtracting-rational.php</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9470.png</field>
+		<field name="Grades">9-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">HS: Algebra</field>
+		<field name="Standards">HAS-APR.D.7</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">Other</field>
+		<field name="Language">English</field>
+		<field name="id">18</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Divide a Whole Number by a Unit Fraction</field>
+		<field name="Description">Simplify fraction multiplication problems when you learn how to cancel common factors.</field>
+		<field name="URL">http://learnzillion.com/lessons/1181</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9049.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">19</field>
+	</doc>
+	<doc>
+		<field name="Provider">IXL</field>
+		<field name="Title">Which Figure Is Being Described</field>
+		<field name="Description">Practice identifying 2-D and 3-D figures using angles, side lengths and other properties.</field>
+		<field name="URL">http://www.ixl.com/math/grade-6/which-figure-is-being-described</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7839.png</field>
+		<field name="Grades">5-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">5.G.B.3, 5.G.B.4</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">20</field>
+	</doc>
+	<doc>
+		<field name="Provider">MySecretMathTutor</field>
+		<field name="Title">Statistics: Find the Center and Spread</field>
+		<field name="Description">Find both the center and spread for a data set.</field>
+		<field name="URL">http://www.youtube.com/embed/9gcNxUcVJck</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7540.jpg</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">6.SP.B.5c</field>
+		<field name="Activity_Type">Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">21</field>
+	</doc>
+	<doc>
+		<field name="Provider">Hotmath</field>
+		<field name="Title">Factor-Tris</field>
+		<field name="Description">Review factor pairs with this Tetris-like game.</field>
+		<field name="URL">http://hotmath.com/hotmath_help/games/factortris/factortris_hotmath_sound.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9255.png</field>
+		<field name="Grades">3-5</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">3.OA.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">22</field>
+	</doc>
+	<doc>
+		<field name="Provider">PBS LearningMedia</field>
+		<field name="Title">Match Each Shape with its Name</field>
+		<field name="Description">Count your new skills when you match the shape to its proper name in this simple game.</field>
+		<field name="URL">http://www.gpbkids.org/countonit/kindergarten/geometry/</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10269.png</field>
+		<field name="Grades">K-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">K.G.A.2</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">23</field>
+	</doc>
+	<doc>
+		<field name="Provider">AplusAlgebra</field>
+		<field name="Title">Addition of Integers with Like Signs</field>
+		<field name="Description">Watch this video to learn how to add integers of like signs in a conceptual way.</field>
+		<field name="URL">http://www.screencast.com/users/www.aplusalgebra.com/folders/Default/media/ac82f312-611b-4eb1-9b8f-9fc8cf1e2198</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7951.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">7.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">24</field>
+	</doc>
+	<doc>
+		<field name="Provider">Algebra Reasoning</field>
+		<field name="Title">MathPlayground.com</field>
+		<field name="Description">Reason algebraically as you find the value of a given object based on the information on the scales.</field>
+		<field name="URL">http://www.mathplayground.com/algebraic_reasoning.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8708.PNG</field>
+		<field name="Grades">5-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Expressions And Equations</field>
+		<field name="Standards">6.EE.A.3, 6.EE.A.4, 6.EE.B.7, 7.EE.B.3, 7.EE.B.4, 7.EE.B.4a</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">25</field>
+	</doc>
+	<doc>
+		<field name="Provider">Translating Percentage Word Problems</field>
+		<field name="Title">Mahalo</field>
+		<field name="Description">Learn how to translate words in a math problem into an equation, and solve the problem.</field>
+		<field name="URL">http://www.youtube.com/embed/rRN3b3SwPmw</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8668.jpg</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Ratios and Proportional Relationships</field>
+		<field name="Standards">6.RP.A.3c</field>
+		<field name="Activity_Type">Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">26</field>
+	</doc>
+	<doc>
+		<field name="Provider">Area</field>
+		<field name="Title">Intel Corporation</field>
+		<field name="Description">Calculate the amount of grass needed for the new soccer fields, by using the formula for area.</field>
+		<field name="URL">http://kent.skoool.co.uk/content/primary/maths/area/index.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11090.jpg</field>
+		<field name="Grades">3-4</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">3.MD.C.5, 3.MD.C.5a, 3.MD.C.5b, 3.MD.C.6, 3.MD.C.7, 3.MD.C.7a, 3.MD.C.7b, 4.MD.A.3</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">27</field>
+	</doc>
+	<doc>
+		<field name="Provider">Tickets Please!</field>
+		<field name="Title">PBS LearningMedia</field>
+		<field name="Description">Fill the seats in all of the rides of Fun Park so that everyone can enjoy a day of amusement.</field>
+		<field name="URL">http://www.pbs.org/parents/media/tixplease_4_4.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11991.png</field>
+		<field name="Grades">K-1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">1.OA.C.6, K.OA.A.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">28</field>
+	</doc>
+	<doc>
+		<field name="Provider">Linear Equations 1</field>
+		<field name="Title">Khan Academy</field>
+		<field name="Description">Watch this great video to see examples of how to solve linear equations.</field>
+		<field name="URL">http://www.youtube.com/embed/bAerID24QJ0</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7645.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Expressions And Equations</field>
+		<field name="Standards">8.EE.C.7a</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">29</field>
+	</doc>
+	<doc>
+		<field name="Provider">Add and Subtract Money Amounts</field>
+		<field name="Title">IXL</field>
+		<field name="Description">Practice adding and subtracting amounts of dollars and cents.</field>
+		<field name="URL">http://www.ixl.com/math/grade-6/add-and-subtract-money-amounts</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9453.jpg</field>
+		<field name="Grades">3-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Number And Operations In Base Ten</field>
+		<field name="Standards">5.NBT.B.7</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">30</field>
+	</doc>
+	<doc>
+		<field name="Provider">Turtle Geometry</field>
+		<field name="Title">Utah State University</field>
+		<field name="Description">Program a virtual turtle to move in a specific path and change colors.</field>
+		<field name="URL">http://nlvm.usu.edu/en/nav/frames_asid_178_g_3_t_3.html?open=activities&amp;from=search.html?qt=turtle</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9648.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">7.G.A.2</field>
+		<field name="Activity_Type">Explore, Play, Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">31</field>
+	</doc>
+	<doc>
+		<field name="Provider">What's the Volume of a Sphere?</field>
+		<field name="Title">yourteachermathhelp</field>
+		<field name="Description">Learn the formula for the volume of a sphere and a cylinder.</field>
+		<field name="URL">http://www.youtube.com/embed/9RsBnMwV7mw</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9091.jpg</field>
+		<field name="Grades">8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">8.G.C.9</field>
+		<field name="Activity_Type">Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">32</field>
+	</doc>
+	<doc>
+		<field name="Provider">Represent the Solution Set of an Equality Using a Number Line</field>
+		<field name="Title">LearnZillion</field>
+		<field name="Description">In this lesson, learn how to create a number line and represent the solution set of an inequality.</field>
+		<field name="URL">http://learnzillion.com/lessons/1506</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7514.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Expressions And Equations</field>
+		<field name="Standards">6.EE.B.8</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">33</field>
+	</doc>
+	<doc>
+		<field name="Provider">K6 Think Central</field>
+		<field name="Title">Harrison's Comparisons</field>
+		<field name="Description">Help Tally and his friends compare objects on a scale in this fun comparison game.</field>
+		<field name="URL">http://www-k6.thinkcentral.com/content/hsp/math/hspmath/ca/common/mega_math_9780153663963_/megamathcd1/cm/launch.html?strActivityName=g13_1_3_A&amp;strAssignID=1</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12941.png</field>
+		<field name="Grades">K</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Counting and Cardinality</field>
+		<field name="Standards">K.CC.B.4, K.CC.B.4a, K.CC.B.4b, K.CC.B.4c, K.CC.B.5, K.CC.C.6, K.CC.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">34</field>
+	</doc>
+	<doc>
+		<field name="Provider">Kidport</field>
+		<field name="Title">Patterns</field>
+		<field name="Description">Fill in the missing numbers and letters in these patterns.</field>
+		<field name="URL">http://www.kidport.com/Grade7/TAL/Patterns.htm</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10683.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">4.OA.C.5</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">35</field>
+	</doc>
+	<doc>
+		<field name="Provider">Donia Popovici</field>
+		<field name="Title">Multiplying Fractions Millionaire Game</field>
+		<field name="Description">Watch this video explanation of a probability problem related to free throws in a basketball game. </field>
+		<field name="URL">http://www.math-play.com/Multiplying-Fractions-Millionaire/play.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9755.png</field>
+		<field name="Grades">5-7</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Number And Operations-Fractions</field>
+		<field name="Standards">5.NF.B.4</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">36</field>
+	</doc>
+	<doc>
+		<field name="Provider">pkkirkland</field>
+		<field name="Title">Random Sampling Introduction</field>
+		<field name="Description">Watch this video for an introduction to random sampling.</field>
+		<field name="URL">http://www.youtube.com/embed/IMv2Cd0I7kA</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7601.jpg</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">7.SP.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">37</field>
+	</doc>
+	<doc>
+		<field name="Provider">New Mexico State University</field>
+		<field name="Title">Gate</field>
+		<field name="Description">Shadows are corrupting the land. Restore the balance of nature by exploring place value.</field>
+		<field name="URL">http://www.mathsnacks.org/gate.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10435.PNG</field>
+		<field name="Grades">5-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Number And Operations In Base Ten The Number System</field>
+		<field name="Standards">5.NBT.A.1, 5.NBT.A.2, 5.NBT.B7, 6.NS.B.3, 6.NS.C.6, 6.NS.C.6c, 7.NS.A.1, 7.NS.A.1c, 7.NS.A.1d</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">38</field>
+	</doc>
+	<doc>
+		<field name="Provider">BBC</field>
+		<field name="Title">Equation Match</field>
+		<field name="Description">Find the matching pairs by working out the value of x in each equation to reveal a hidden picture.</field>
+		<field name="URL">http://www.bbc.co.uk/schools/mathsfile/shockwave/games/equationmatch.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11801.png</field>
+		<field name="Grades">6-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Expressions And Equations HS: Algebra</field>
+		<field name="Standards">6.EE.B.5, 6.EE.B.7, 7.EE.B.3, 8.EE.C.7, 8.EE.C.7b, HAS-REI.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">Shockwave</field>
+		<field name="Language">English</field>
+		<field name="id">39</field>
+	</doc>
+	<doc>
+		<field name="Provider">Starfall</field>
+		<field name="Title">Make a Match Multiplication</field>
+		<field name="Description">Can you match the multiplication facts when you test your memory in this colorful interactive?</field>
+		<field name="URL">http://more2.starfall.com/m/math2/threetimes-b/load.htm?f&amp;d=demo</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12620.png</field>
+		<field name="Grades">3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">3.OA.A.1, 3.OA.C.7</field>
+		<field name="Activity_Type">Play</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">40</field>
+	</doc>
+	<doc>
+		<field name="Provider">Learn Alberta</field>
+		<field name="Title">Math 3: Under the Sea</field>
+		<field name="Description">In this game, roll the dice and graph the answer to practice basic concepts of multiplication.</field>
+		<field name="URL">http://www.learnalberta.ca/content/me3us/flash/lessonLauncher.html?lesson=lessons/08/m3_08_00_x.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8017.png</field>
+		<field name="Grades">2-4</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">3.OA.A.1, 3.OA.A.4, 3.OA.C.7</field>
+		<field name="Activity_Type">Explore, Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">41</field>
+	</doc>
+	<doc>
+		<field name="Provider">J. Banfill</field>
+		<field name="Title">Multiplication Sentences 1</field>
+		<field name="Description">Complete the multiplication equation in order to make the equation true as fast as you can.</field>
+		<field name="URL">http://www.aaastudy.com/equ-mulequ1.htm#section2</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11550.png</field>
+		<field name="Grades">4</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">3.OA.A.4, 3.OA.C.7</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">42</field>
+	</doc>
+	<doc>
+		<field name="Provider">Ambleside CE Primary School</field>
+		<field name="Title">Fractotron</field>
+		<field name="Description">Quickly determine if a fraction is greater than, less than, or equal to one half.</field>
+		<field name="URL">http://www.amblesideprimary.com/ambleweb/mentalmaths/fractotron.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9990.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Numbers And Operations-Fractions</field>
+		<field name="Standards">4.NF.A.2</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">43</field>
+	</doc>
+	<doc>
+		<field name="Provider">To14.com</field>
+		<field name="Title">Polynomials - Division of Polynomials by Inspection</field>
+		<field name="Description">Use inspection to divide polynomials by binomials with these step-by-step practice problems.</field>
+		<field name="URL">http://www.to14.com/game.php?id=4d486a56892c5</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9704.png</field>
+		<field name="Grades">9-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">HS: Algebra</field>
+		<field name="Standards">HAS-APR.D.6</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">Flashplayer</field>
+		<field name="Language">English</field>
+		<field name="id">44</field>
+	</doc>
+	<doc>
+		<field name="Provider">K6 Think Central</field>
+		<field name="Title">Counting Critters: Using Arrays to Multiply</field>
+		<field name="Description">Use the bluebirds to create arrays and solve basic multiplication problems with your friend Tally.</field>
+		<field name="URL">http://www-k6.thinkcentral.com/content/hsp/math/hspmath/ca/common/mega_math_9780153663963_/megamathcd1/cm/launch.html?strActivityName=g13_1_2_W&amp;strAssignID=1</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/13032.png</field>
+		<field name="Grades">2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">2.OA.C.4</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">45</field>
+	</doc>
+	<doc>
+		<field name="Provider">Sheppard Software</field>
+		<field name="Title">Greater or Less Than Activity</field>
+		<field name="Description">Identify greater than, less than, and equal number relationships in this quick paced game!</field>
+		<field name="URL">http://www.sheppardsoftware.com/mathgames/earlymath/BPGreatLessEqualWords2.htm</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8910.PNG</field>
+		<field name="Grades">1-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Number And Operations In Base Ten</field>
+		<field name="Standards">1.NBT.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">46</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Show That All Circles are Similar Using Similar Triangles</field>
+		<field name="Description">Explore how to show that all circles are similar by using similar triangles.</field>
+		<field name="URL">http://learnzillion.com/lessons/2591-show-that-all-circles-are-similar-using-similar-triangles</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12148.png</field>
+		<field name="Grades">8-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">HS: Geometry</field>
+		<field name="Standards">HSG-C.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">47</field>
+	</doc>
+	<doc>
+		<field name="Provider">eHow</field>
+		<field name="Title">Math Help: Solve Problems with a Variable</field>
+		<field name="Description">Find out how solve an equation, and discover what the variable equals.</field>
+		<field name="URL">http://www.youtube.com/embed/_1UvlBtaNLo</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8867.jpg</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Expressions And Equations</field>
+		<field name="Standards">7.EE.B.4a</field>
+		<field name="Activity_Type">Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">48</field>
+	</doc>
+	<doc>
+		<field name="Provider">McGraw-Hill</field>
+		<field name="Title">Fact Dash</field>
+		<field name="Description">How many problems can you solve in the allotted time? Dash to answer the facts as fast you can.</field>
+		<field name="URL">http://www.mhschool.com/math/2009/ca/assets/factdash.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11818.png</field>
+		<field name="Grades">1-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">1.OA.C.6, 2.OA.B.2, 3.OA.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">49</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Express a Ratio in the simplest Form</field>
+		<field name="Description">Count and compare objects, to learn how to write a ratio and express it in its simplest form.</field>
+		<field name="URL">http://learnzillion.com/lessons/304</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9311.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Ratios and Proportional Relationships</field>
+		<field name="Standards">6.RP.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">50</field>
+	</doc>
+	<doc>
+		<field name="Provider">The Concord Consortium</field>
+		<field name="Title">Translation of Functions</field>
+		<field name="Description">Examine effects of adding or subtracting a constant from a function by how the parabola changes.</field>
+		<field name="URL">http://smartgraphs-authoring.concord.org/activities/121-translations-of-functions/student_preview</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11663.png</field>
+		<field name="Grades">8-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry, HS: Functions, HS: Geometry</field>
+		<field name="Standards">8.G.A.3, HSF-BF.B.3, HSG-CO.A.2</field>
+		<field name="Activity_Type">Create,Explore,Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">51</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Divide Mixed Numbers: Multiplying by the Reciprocal</field>
+		<field name="Description">Multiply by the reciprocal, in this lesson, to learn how to divide mixed numbers.</field>
+		<field name="URL">http://learnzillion.com/lessons/208</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8417.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">52</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Multiplying Fractions by Fractions by Multiplying Across</field>
+		<field name="Description">Without drawing models, learn how to multiply fractions, in this interactive lesson.</field>
+		<field name="URL">http://learnzillion.com/lessons/214</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9059.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">53</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Multiplying Fractions by Fractions Using Area Models</field>
+		<field name="Description">Use models, in this lesson, to learn how to multiply fractions by fractions.</field>
+		<field name="URL">http://learnzillion.com/lessons/213</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9056.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">54</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Check Answers When Dividing Fractions</field>
+		<field name="Description">Think about the inverse relationship between multiplication and division when dividing fractions.</field>
+		<field name="URL">http://learnzillion.com/lessons/1282</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8994.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">55</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Divide a Fraction by a Whole Number</field>
+		<field name="Description">Think about equal groups when you learn to divide a fraction by a whole number</field>
+		<field name="URL">http://learnzillion.com/lessons/1250</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9052.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">56</field>
+	</doc>
+	<doc>
+		<field name="Provider">SUMS Online</field>
+		<field name="Title">Rabbit Takeaway</field>
+		<field name="Description">The bunnies need your subtraction skills to count how many are left when a few are taken away.</field>
+		<field name="URL">http://www.rabbittakeaway.co.uk/activity/</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10081.png</field>
+		<field name="Grades">K-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">1.OA.A.1, 2.OA.B.2, K.OA.A.5</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">57</field>
+	</doc>
+	<doc>
+		<field name="Provider">GreatMartiniCo.</field>
+		<field name="Title">Kids Pick the Sign</field>
+		<field name="Description">Help Mr. Martini teach his students! Pick either ( + ) or ( - ) to make the equation correct.</field>
+		<field name="URL">http://www.thegreatmartinicompany.com/Kids-Math/kid-sign.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7842.png</field>
+		<field name="Grades">K-1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">1.OA.C.6, 1.OA.D.7, K.OA.A.5</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">58</field>
+	</doc>
+	<doc>
+		<field name="Provider">MathPlayground.com</field>
+		<field name="Title">Word Problems with Katie</field>
+		<field name="Description">Help solve Katie's word problems and see if you can score a Grand Slam!</field>
+		<field name="URL">http://www.mathplayground.com/WordProblemsWithKatie1.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9966.png</field>
+		<field name="Grades">1-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">2.NBT.B.5, 2.OA.A.1</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">59</field>
+	</doc>
+	<doc>
+		<field name="Provider">AplusAlgebra</field>
+		<field name="Title">Order of Operations</field>
+		<field name="Description">Watch this video to learn order of operations.</field>
+		<field name="URL">http://www.screencast.com/users/www.aplusalgebra.com/folders/Default/media/4a467f7b-ab85-4fd5-8e3f-40cb93247946</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7889.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">4.OA.A.3, 5.OA.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">60</field>
+	</doc>
+	<doc>
+		<field name="Provider">Hotmath</field>
+		<field name="Title">Number Chef</field>
+		<field name="Description">Fill the orders of the hungry diners by combining the right numbers into the pot!</field>
+		<field name="URL">http://hotmath.com/hotmath_help/games/numberchef/numchef.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9703.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">4.OA.A.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">61</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Understand the Coordinate Plane as Horizontal and Vertical Number Line </field>
+		<field name="Description">In this lesson, combine horizontal and vertical number lines to learn about the coordinate plane.</field>
+		<field name="URL">http://learnzillion.com/lessons/489</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8333.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.C.6b</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">62</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Understand the Opposite of a Number by Looking at a Number Line</field>
+		<field name="Description">In this interactive lesson, look at a number line to learn about the opposite of a number.</field>
+		<field name="URL">http://learnzillion.com/lessons/481</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9204.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.C.6, 6.NS.C.6a, 6.NS.C.6c</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">63</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Reflect Points Over the X and Y Axes</field>
+		<field name="Description">Use a coordinate plane, in this lesson, to learn how to reflect points over the x and y axes.</field>
+		<field name="URL">http://learnzillion.com/lessons/492</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9116.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.G.A.3, 6.NS.C.6, 6.NS.C.6a, 6.NS.C.6b, 6.NS.C.6c</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">64</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Graph Points on a Coordinate Plane</field>
+		<field name="Description">In this interactive lesson, use a coordinate plane to learn how to graph points.</field>
+		<field name="URL">http://learnzillion.com/lessons/490</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9117.png</field>
+		<field name="Grades">5-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">5.G.A.1, 6.NS.C.6, 6.NS.C.6b, 6.NS.C.6c</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">65</field>
+	</doc>
+	<doc>
+		<field name="Provider">Math Warehouse</field>
+		<field name="Title">Inverse of a Function</field>
+		<field name="Description">Embrace your inner Isaac Newton when you explore domain, range, and the inverse of a function</field>
+		<field name="URL">http://www.mathwarehouse.com/algebra/relation/inverse-of-function.php</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10742.png</field>
+		<field name="Grades">8-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Functions</field>
+		<field name="Standards">8.F.A.1, HSF-BF.B.4, HSF-BF.B.4a, HSF-BF.B.4c, HSF-IF.A.1</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">Other</field>
+		<field name="Language">English</field>
+		<field name="id">66</field>
+	</doc>
+	<doc>
+		<field name="Provider">BrainPOP</field>
+		<field name="Title">Angles</field>
+		<field name="Description">Learn all about angles with Tim and Moby. </field>
+		<field name="URL">http://www.brainpop.com/math/geometryandmeasurement/angles/</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10406.png</field>
+		<field name="Grades">4-7</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry, Measurement And Data</field>
+		<field name="Standards">4.G.A.1, 4.MD.C.5, 4.MD.C.5a, 4.MD.C.6, 4.MD.C.7, 7.G.B.5</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">67</field>
+	</doc>
+	<doc>
+		<field name="Provider">Toon University</field>
+		<field name="Title">6th Grade Math Angles</field>
+		<field name="Description">Help Robot Guy save the planet by identifying acute, obtuse, and right angles.</field>
+		<field name="URL">http://www.toonuniversity.com/6m_angle_d.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10221.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">4.G.A.1</field>
+		<field name="Activity_Type">Play</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">68</field>
+	</doc>
+	<doc>
+		<field name="Provider">MathNook</field>
+		<field name="Title">Space Arcade Match</field>
+		<field name="Description">Apply your vocabulary knowledge of two-dimensional shapes, lines, and angles in this matching game.</field>
+		<field name="URL">http://www.mathnook.com/math/spacematchgeo.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10764.jpg</field>
+		<field name="Grades">4</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">4.G.A.1</field>
+		<field name="Activity_Type">Play</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">69</field>
+	</doc>
+	<doc>
+		<field name="Provider">Statisticsfun</field>
+		<field name="Title">How to Calculate Mean and Standard Deviation </field>
+		<field name="Description">Watch a review of mean and standard deviation.</field>
+		<field name="URL">http://www.youtube.com/embed/VpQVQv5DSe8</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7627.jpg</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">6.SP.B.5c</field>
+		<field name="Activity_Type">Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">70</field>
+	</doc>
+	<doc>
+		<field name="Provider">IXL </field>
+		<field name="Title">Interpret Stem and Leaf Plots</field>
+		<field name="Description">Practice answering questions based on data in a stem-and-leaf plot.</field>
+		<field name="URL">http://www.ixl.com/math/grade-8/interpret-stem-and-leaf-plots</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9748.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">6.SP.B.4</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">71</field>
+	</doc>
+	<doc>
+		<field name="Provider">AplusAlgebra</field>
+		<field name="Title">Order of Operations</field>
+		<field name="Description">Watch this video to learn order of operations.</field>
+		<field name="URL">http://www.screencast.com/users/www.aplusalgebra.com/folders/Default/media/4a467f7b-ab85-4fd5-8e3f-40cb93247946</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7889.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">4.OA.A.3, 5.OA.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">72</field>
+	</doc>
+	<doc>
+		<field name="Provider">Hotmath</field>
+		<field name="Title">Number Chef</field>
+		<field name="Description">Fill the orders of the hungry diners by combining the right numbers into the pot!</field>
+		<field name="URL">http://hotmath.com/hotmath_help/games/numberchef/numchef.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9703.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">4.OA.A.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">73</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Understand the Coordinate Plane as Horizontal and Vertical Number Line </field>
+		<field name="Description">In this lesson, combine horizontal and vertical number lines to learn about the coordinate plane.</field>
+		<field name="URL">http://learnzillion.com/lessons/489</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8333.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.C.6b</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">74</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Understand the Opposite of a Number by Looking at a Number Line</field>
+		<field name="Description">In this interactive lesson, look at a number line to learn about the opposite of a number.</field>
+		<field name="URL">http://learnzillion.com/lessons/481</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9204.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.C.6, 6.NS.C.6a, 6.NS.C.6c</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">75</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Reflect Points Over the X and Y Axes</field>
+		<field name="Description">Use a coordinate plane, in this lesson, to learn how to reflect points over the x and y axes.</field>
+		<field name="URL">http://learnzillion.com/lessons/492</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9116.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.G.A.3, 6.NS.C.6, 6.NS.C.6a, 6.NS.C.6b, 6.NS.C.6c</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">76</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Graph Points on a Coordinate Plane</field>
+		<field name="Description">In this interactive lesson, use a coordinate plane to learn how to graph points.</field>
+		<field name="URL">http://learnzillion.com/lessons/490</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9117.png</field>
+		<field name="Grades">5-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">5.G.A.1, 6.NS.C.6, 6.NS.C.6b, 6.NS.C.6c</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">77</field>
+	</doc>
+	<doc>
+		<field name="Provider">Math Warehouse</field>
+		<field name="Title">Inverse of a Function</field>
+		<field name="Description">Embrace your inner Isaac Newton when you explore domain, range, and the inverse of a function</field>
+		<field name="URL">http://www.mathwarehouse.com/algebra/relation/inverse-of-function.php</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10742.png</field>
+		<field name="Grades">8-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Functions</field>
+		<field name="Standards">8.F.A.1, HSF-BF.B.4, HSF-BF.B.4a, HSF-BF.B.4c, HSF-IF.A.1</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">Other</field>
+		<field name="Language">English</field>
+		<field name="id">78</field>
+	</doc>
+	<doc>
+		<field name="Provider">BrainPOP</field>
+		<field name="Title">Angles</field>
+		<field name="Description">Learn all about angles with Tim and Moby. </field>
+		<field name="URL">http://www.brainpop.com/math/geometryandmeasurement/angles/</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10406.png</field>
+		<field name="Grades">4-7</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry, Measurement And Data</field>
+		<field name="Standards">4.G.A.1, 4.MD.C.5, 4.MD.C.5a, 4.MD.C.6, 4.MD.C.7, 7.G.B.5</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">79</field>
+	</doc>
+	<doc>
+		<field name="Provider">Toon University</field>
+		<field name="Title">6th Grade Math Angles</field>
+		<field name="Description">Help Robot Guy save the planet by identifying acute, obtuse, and right angles.</field>
+		<field name="URL">http://www.toonuniversity.com/6m_angle_d.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10221.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">4.G.A.1</field>
+		<field name="Activity_Type">Play</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">80</field>
+	</doc>
+	<doc>
+		<field name="Provider">MathNook</field>
+		<field name="Title">Space Arcade Match</field>
+		<field name="Description">Apply your vocabulary knowledge of two-dimensional shapes, lines, and angles in this matching game.</field>
+		<field name="URL">http://www.mathnook.com/math/spacematchgeo.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10764.jpg</field>
+		<field name="Grades">4</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">4.G.A.1</field>
+		<field name="Activity_Type">Play</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">81</field>
+	</doc>
+	<doc>
+		<field name="Provider">Statisticsfun</field>
+		<field name="Title">How to Calculate Mean and Standard Deviation </field>
+		<field name="Description">Watch a review of mean and standard deviation.</field>
+		<field name="URL">http://www.youtube.com/embed/VpQVQv5DSe8</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7627.jpg</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">6.SP.B.5c</field>
+		<field name="Activity_Type">Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">82</field>
+	</doc>
+	<doc>
+		<field name="Provider">IXL </field>
+		<field name="Title">Interpret Stem and Leaf Plots</field>
+		<field name="Description">Practice answering questions based on data in a stem-and-leaf plot.</field>
+		<field name="URL">http://www.ixl.com/math/grade-8/interpret-stem-and-leaf-plots</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9748.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">6.SP.B.4</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">83</field>
+	</doc>
+	<doc>
+		<field name="Provider">McGraw-Hill</field>
+		<field name="Title">Telling Time</field>
+		<field name="Description">All of the clocks fell on the floor! Help Clara and her friends get the clocks back on the shelves.</field>
+		<field name="URL">http://www.mhschool.com/math/mathconnects/assets/mhln/00140850/00140850.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11894.png</field>
+		<field name="Grades">1-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">84</field>
+	</doc>
+	<doc>
+		<field name="Provider">Arcademics</field>
+		<field name="Title">Giraffe Pull</field>
+		<field name="Description">Is it half past four? Use your time-telling skills to compete in this game of giraffe tug-of-war.</field>
+		<field name="URL">http://www.arcademics.com/games/giraffe-pull/giraffe-pull.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11883.png</field>
+		<field name="Grades">1-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">85</field>
+	</doc>
+	<doc>
+		<field name="Provider">HoughtonMifflinHarcourt</field>
+		<field name="Title">Willy the Watchdog</field>
+		<field name="Description">Roll the dice, land on the digital clock, and set the analog clock time when you play with a friend.</field>
+		<field name="URL">http://www.harcourtschool.com/activity/willy/willy.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12053.png</field>
+		<field name="Grades">1-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">86</field>
+	</doc>
+	<doc>
+		<field name="Provider">HoughtonMifflinHarcourt</field>
+		<field name="Title">Telling Time</field>
+		<field name="Description">Hear the whistle sing through the air when you match the time on an analog clock to a digital one.</field>
+		<field name="URL">http://learnenglishkids.britishcouncil.org/en/fun-games/whats-the-time</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10637.png</field>
+		<field name="Grades">1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">87</field>
+	</doc>
+	<doc>
+		<field name="Provider">IXL</field>
+		<field name="Title">Match Analog and Digital Clocks</field>
+		<field name="Description">Match analog to digital time in this multiple choice activity.</field>
+		<field name="URL">http://www.ixl.com/math/grade-1/match-analog-and-digital-clocks</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12879.png</field>
+		<field name="Grades">1-2</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">88</field>
+	</doc>
+	<doc>
+		<field name="Provider">Scholastic</field>
+		<field name="Title">Time Travelin'</field>
+		<field name="Description">Collect objects as you fly through outer space and reset your spaceship clock when it goes haywire.</field>
+		<field name="URL">http://www.scholastic.com/play/time.htm</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12855.png</field>
+		<field name="Grades">1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">89</field>
+	</doc>
+	<doc>
+		<field name="Provider">West Midlands</field>
+		<field name="Title">Clock</field>
+		<field name="Description">Click on the minute increments to see the relationship between numbers and analog time.</field>
+		<field name="URL">http://www.wmnet.org.uk/wmnet/custom/files_uploaded/uploaded_resources/503/clock.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8270.png</field>
+		<field name="Grades">1-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">1.MD.B.3, 2.MD.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">90</field>
+	</doc>
+	<doc>
+		<field name="Provider">IXL</field>
+		<field name="Title">Do the Ratios Form a Proportion</field>
+		<field name="Description">Recognize</field>
+		<field name="URL">http://www.ixl.com/math/grade-7/do-the-ratios-form-a-proportion-word-problems</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8494.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Ratios and Proportional Relationships</field>
+		<field name="Standards">6.RP.A.1, 6.RP.A.2</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">91</field>
+	</doc>
+	<doc>
+		<field name="Provider">MathPortal.org</field>
+		<field name="Title">Adding and Subtracting Rational Expressions</field>
+		<field name="Description">Add and subtract rational expressions with the same denominator while completing practice problems.</field>
+		<field name="URL">http://www.mathportal.org/algebra/rational-expressions/adding-subtracting-rational.php</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9470.png</field>
+		<field name="Grades">9-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">HS: Algebra</field>
+		<field name="Standards">HAS-APR.D.7</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">Other</field>
+		<field name="Language">English</field>
+		<field name="id">92</field>
+	</doc>
+	<doc>
+		<field name="Provider">LearnZillion.com</field>
+		<field name="Title">Divide a Whole Number by a Unit Fraction</field>
+		<field name="Description">Simplify fraction multiplication problems when you learn how to cancel common factors.</field>
+		<field name="URL">http://learnzillion.com/lessons/1181</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9049.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">6.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">93</field>
+	</doc>
+	<doc>
+		<field name="Provider">IXL</field>
+		<field name="Title">Which Figure Is Being Described</field>
+		<field name="Description">Practice identifying 2-D and 3-D figures using angles, side lengths and other properties.</field>
+		<field name="URL">http://www.ixl.com/math/grade-6/which-figure-is-being-described</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7839.png</field>
+		<field name="Grades">5-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">5.G.B.3, 5.G.B.4</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">94</field>
+	</doc>
+	<doc>
+		<field name="Provider">MySecretMathTutor</field>
+		<field name="Title">Statistics: Find the Center and Spread</field>
+		<field name="Description">Find both the center and spread for a data set.</field>
+		<field name="URL">http://www.youtube.com/embed/9gcNxUcVJck</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7540.jpg</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">6.SP.B.5c</field>
+		<field name="Activity_Type">Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">95</field>
+	</doc>
+	<doc>
+		<field name="Provider">Hotmath</field>
+		<field name="Title">Factor-Tris</field>
+		<field name="Description">Review factor pairs with this Tetris-like game.</field>
+		<field name="URL">http://hotmath.com/hotmath_help/games/factortris/factortris_hotmath_sound.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9255.png</field>
+		<field name="Grades">3-5</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">3.OA.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">96</field>
+	</doc>
+	<doc>
+		<field name="Provider">PBS LearningMedia</field>
+		<field name="Title">Match Each Shape with its Name</field>
+		<field name="Description">Count your new skills when you match the shape to its proper name in this simple game.</field>
+		<field name="URL">http://www.gpbkids.org/countonit/kindergarten/geometry/</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10269.png</field>
+		<field name="Grades">K-3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">K.G.A.2</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">97</field>
+	</doc>
+	<doc>
+		<field name="Provider">AplusAlgebra</field>
+		<field name="Title">Addition of Integers with Like Signs</field>
+		<field name="Description">Watch this video to learn how to add integers of like signs in a conceptual way.</field>
+		<field name="URL">http://www.screencast.com/users/www.aplusalgebra.com/folders/Default/media/ac82f312-611b-4eb1-9b8f-9fc8cf1e2198</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7951.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">The Number System</field>
+		<field name="Standards">7.NS.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">98</field>
+	</doc>
+	<doc>
+		<field name="Provider">Algebra Reasoning</field>
+		<field name="Title">MathPlayground.com</field>
+		<field name="Description">Reason algebraically as you find the value of a given object based on the information on the scales.</field>
+		<field name="URL">http://www.mathplayground.com/algebraic_reasoning.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8708.PNG</field>
+		<field name="Grades">5-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Expressions And Equations</field>
+		<field name="Standards">6.EE.A.3, 6.EE.A.4, 6.EE.B.7, 7.EE.B.3, 7.EE.B.4, 7.EE.B.4a</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">99</field>
+	</doc>
+	<doc>
+		<field name="Provider">Translating Percentage Word Problems</field>
+		<field name="Title">Mahalo</field>
+		<field name="Description">Learn how to translate words in a math problem into an equation, and solve the problem.</field>
+		<field name="URL">http://www.youtube.com/embed/rRN3b3SwPmw</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8668.jpg</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Ratios and Proportional Relationships</field>
+		<field name="Standards">6.RP.A.3c</field>
+		<field name="Activity_Type">Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">100</field>
+	</doc>
+	<doc>
+		<field name="Provider">Area</field>
+		<field name="Title">Intel Corporation</field>
+		<field name="Description">Calculate the amount of grass needed for the new soccer fields, by using the formula for area.</field>
+		<field name="URL">http://kent.skoool.co.uk/content/primary/maths/area/index.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11090.jpg</field>
+		<field name="Grades">3-4</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Measurement And Data</field>
+		<field name="Standards">3.MD.C.5, 3.MD.C.5a, 3.MD.C.5b, 3.MD.C.6, 3.MD.C.7, 3.MD.C.7a, 3.MD.C.7b, 4.MD.A.3</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">101</field>
+	</doc>
+	<doc>
+		<field name="Provider">Tickets Please!</field>
+		<field name="Title">PBS LearningMedia</field>
+		<field name="Description">Fill the seats in all of the rides of Fun Park so that everyone can enjoy a day of amusement.</field>
+		<field name="URL">http://www.pbs.org/parents/media/tixplease_4_4.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11991.png</field>
+		<field name="Grades">K-1</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">1.OA.C.6, K.OA.A.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">102</field>
+	</doc>
+	<doc>
+		<field name="Provider">Linear Equations 1</field>
+		<field name="Title">Khan Academy</field>
+		<field name="Description">Watch this great video to see examples of how to solve linear equations.</field>
+		<field name="URL">http://www.youtube.com/embed/bAerID24QJ0</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7645.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Expressions And Equations</field>
+		<field name="Standards">8.EE.C.7a</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">103</field>
+	</doc>
+	<doc>
+		<field name="Provider">Add and Subtract Money Amounts</field>
+		<field name="Title">IXL</field>
+		<field name="Description">Practice adding and subtracting amounts of dollars and cents.</field>
+		<field name="URL">http://www.ixl.com/math/grade-6/add-and-subtract-money-amounts</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9453.jpg</field>
+		<field name="Grades">3-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Number And Operations In Base Ten</field>
+		<field name="Standards">5.NBT.B.7</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">104</field>
+	</doc>
+	<doc>
+		<field name="Provider">Turtle Geometry</field>
+		<field name="Title">Utah State University</field>
+		<field name="Description">Program a virtual turtle to move in a specific path and change colors.</field>
+		<field name="URL">http://nlvm.usu.edu/en/nav/frames_asid_178_g_3_t_3.html?open=activities&amp;from=search.html?qt=turtle</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9648.png</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">7.G.A.2</field>
+		<field name="Activity_Type">Explore, Play, Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">105</field>
+	</doc>
+	<doc>
+		<field name="Provider">What's the Volume of a Sphere?</field>
+		<field name="Title">yourteachermathhelp</field>
+		<field name="Description">Learn the formula for the volume of a sphere and a cylinder.</field>
+		<field name="URL">http://www.youtube.com/embed/9RsBnMwV7mw</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9091.jpg</field>
+		<field name="Grades">8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Geometry</field>
+		<field name="Standards">8.G.C.9</field>
+		<field name="Activity_Type">Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">106</field>
+	</doc>
+	<doc>
+		<field name="Provider">Represent the Solution Set of an Equality Using a Number Line</field>
+		<field name="Title">LearnZillion</field>
+		<field name="Description">In this lesson, learn how to create a number line and represent the solution set of an inequality.</field>
+		<field name="URL">http://learnzillion.com/lessons/1506</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7514.png</field>
+		<field name="Grades">6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Expressions And Equations</field>
+		<field name="Standards">6.EE.B.8</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">107</field>
+	</doc>
+	<doc>
+		<field name="Provider">K6 Think Central</field>
+		<field name="Title">Harrison's Comparisons</field>
+		<field name="Description">Help Tally and his friends compare objects on a scale in this fun comparison game.</field>
+		<field name="URL">http://www-k6.thinkcentral.com/content/hsp/math/hspmath/ca/common/mega_math_9780153663963_/megamathcd1/cm/launch.html?strActivityName=g13_1_3_A&amp;strAssignID=1</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12941.png</field>
+		<field name="Grades">K</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Counting and Cardinality</field>
+		<field name="Standards">K.CC.B.4, K.CC.B.4a, K.CC.B.4b, K.CC.B.4c, K.CC.B.5, K.CC.C.6, K.CC.C.7</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">108</field>
+	</doc>
+	<doc>
+		<field name="Provider">Kidport</field>
+		<field name="Title">Patterns</field>
+		<field name="Description">Fill in the missing numbers and letters in these patterns.</field>
+		<field name="URL">http://www.kidport.com/Grade7/TAL/Patterns.htm</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10683.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">4.OA.C.5</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">109</field>
+	</doc>
+	<doc>
+		<field name="Provider">Donia Popovici</field>
+		<field name="Title">Multiplying Fractions Millionaire Game</field>
+		<field name="Description">Watch this video explanation of a probability problem related to free throws in a basketball game. </field>
+		<field name="URL">http://www.math-play.com/Multiplying-Fractions-Millionaire/play.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9755.png</field>
+		<field name="Grades">5-7</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Number And Operations-Fractions</field>
+		<field name="Standards">5.NF.B.4</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">110</field>
+	</doc>
+	<doc>
+		<field name="Provider">pkkirkland</field>
+		<field name="Title">Random Sampling Introduction</field>
+		<field name="Description">Watch this video for an introduction to random sampling.</field>
+		<field name="URL">http://www.youtube.com/embed/IMv2Cd0I7kA</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/7601.jpg</field>
+		<field name="Grades">6-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">7.SP.A.1</field>
+		<field name="Activity_Type">Practice,Watch</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">111</field>
+	</doc>
+	<doc>
+		<field name="Provider">New Mexico State University</field>
+		<field name="Title">Gate</field>
+		<field name="Description">Shadows are corrupting the land. Restore the balance of nature by exploring place value.</field>
+		<field name="URL">http://www.mathsnacks.org/gate.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/10435.PNG</field>
+		<field name="Grades">5-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Number And Operations In Base Ten The Number System</field>
+		<field name="Standards">5.NBT.A.1, 5.NBT.A.2, 5.NBT.B7, 6.NS.B.3, 6.NS.C.6, 6.NS.C.6c, 7.NS.A.1, 7.NS.A.1c, 7.NS.A.1d</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">112</field>
+	</doc>
+	<doc>
+		<field name="Provider">BBC</field>
+		<field name="Title">Equation Match</field>
+		<field name="Description">Find the matching pairs by working out the value of x in each equation to reveal a hidden picture.</field>
+		<field name="URL">http://www.bbc.co.uk/schools/mathsfile/shockwave/games/equationmatch.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11801.png</field>
+		<field name="Grades">6-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Expressions And Equations HS: Algebra</field>
+		<field name="Standards">6.EE.B.5, 6.EE.B.7, 7.EE.B.3, 8.EE.C.7, 8.EE.C.7b, HAS-REI.B.3</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">Shockwave</field>
+		<field name="Language">English</field>
+		<field name="id">113</field>
+	</doc>
+	<doc>
+		<field name="Provider">Starfall</field>
+		<field name="Title">Make a Match Multiplication</field>
+		<field name="Description">Can you match the multiplication facts when you test your memory in this colorful interactive?</field>
+		<field name="URL">http://more2.starfall.com/m/math2/threetimes-b/load.htm?f&amp;d=demo</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12620.png</field>
+		<field name="Grades">3</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">3.OA.A.1, 3.OA.C.7</field>
+		<field name="Activity_Type">Play</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">114</field>
+	</doc>
+	<doc>
+		<field name="Provider">Learn Alberta</field>
+		<field name="Title">Math 3: Under the Sea</field>
+		<field name="Description">In this game, roll the dice and graph the answer to practice basic concepts of multiplication.</field>
+		<field name="URL">http://www.learnalberta.ca/content/me3us/flash/lessonLauncher.html?lesson=lessons/08/m3_08_00_x.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/8017.png</field>
+		<field name="Grades">2-4</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">3.OA.A.1, 3.OA.A.4, 3.OA.C.7</field>
+		<field name="Activity_Type">Explore, Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">115</field>
+	</doc>
+	<doc>
+		<field name="Provider">J. Banfill</field>
+		<field name="Title">Multiplication Sentences 1</field>
+		<field name="Description">Complete the multiplication equation in order to make the equation true as fast as you can.</field>
+		<field name="URL">http://www.aaastudy.com/equ-mulequ1.htm#section2</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/11550.png</field>
+		<field name="Grades">4</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Operations and Algebraic Thinking</field>
+		<field name="Standards">3.OA.A.4, 3.OA.C.7</field>
+		<field name="Activity_Type">Practice</field>
+		<field name="Technical_Requirements">None</field>
+		<field name="Language">English</field>
+		<field name="id">116</field>
+	</doc>
+	<doc>
+		<field name="Provider">Ambleside CE Primary School</field>
+		<field name="Title">Fractotron</field>
+		<field name="Description">Quickly determine if a fraction is greater than, less than, or equal to one half.</field>
+		<field name="URL">http://www.amblesideprimary.com/ambleweb/mentalmaths/fractotron.html</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/9990.png</field>
+		<field name="Grades">4-6</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Numbers And Operations-Fractions</field>
+		<field name="Standards">4.NF.A.2</field>
+		<field name="Activity_Type">Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">117</field>
+	</doc>
+	<doc>
+		<field name="Provider">Learn Alberta</field>
+		<field name="Title">Definition of Mean, Median, Mode, and Range</field>
+		<field name="Description">Learn how to find central tendencies, and use them to analyze real-world problems.</field>
+		<field name="URL">http://www.learnalberta.ca/content/mec/flash/index.html?url=Data/6/A/A6A2.swf</field>
+		<field name="Image">http://media.powermylearning.org//content/assets/dlaimages/12747.png</field>
+		<field name="Grades">5-8</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">6.SP.B.5c, 7.SP.A.2</field>
+		<field name="Activity_Type">Explore, Play, Practice</field>
+		<field name="Technical_Requirements">FlashPlayer</field>
+		<field name="Language">English</field>
+		<field name="id">118</field>
+	</doc>
+	<doc>
+		<field name="Provider">R F Barrow</field>
+		<field name="Title">Probability-Conditional Probabilities</field>
+		<field name="Description">Explore the possible outcomes of rolling two dice and the probability of each outcome.</field>
+		<field name="URL">http://www.waldomaths.com/Prob2N.jsp</field>
+		<field name="Grades">7-12</field>
+		<field name="Subjects">Math</field>
+		<field name="Domains">Statistics And Probability</field>
+		<field name="Standards">7.SP.C.5, 7.SP.C.8, 7.SP.C.8a, 7.SP.C.8b, </field>
+		<field name="id">119</field>
+	</doc>
+  </add>
+</PowerMyLearningresource>
