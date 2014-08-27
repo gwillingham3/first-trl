@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PowerMyLearningresource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <add>
+  <add commitWithin = "10000">
 	<doc>
 		<field name="Provider">StatTrek.com</field>
 		<field name="Title">Random Number Generator</field>
