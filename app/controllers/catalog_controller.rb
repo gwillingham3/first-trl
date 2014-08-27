@@ -151,6 +151,22 @@ class CatalogController < ApplicationController
       }
     end
     
+    config.add_search_field('Title') do |field|
+      field.solr_parameters = { :'spellcheck.dictionary' => 'Title' }
+      field.solr_local_parameters = {
+        :qf => '$Title_qf',
+        :pf => '$Title_pf',
+      }
+    end
+    
+    config.add_search_field('Provider') do |field|
+      field.solr_parameters = { :'spellcheck.dictionary' => 'Provider' }
+      field.solr_local_parameters = {
+        :qf => '$Provider_qf',
+        :pf => '$Provider_pf',
+      }
+    end
+    
     config.add_search_field('author') do |field|
       field.solr_parameters = { :'spellcheck.dictionary' => 'author' }
       field.solr_local_parameters = { 
