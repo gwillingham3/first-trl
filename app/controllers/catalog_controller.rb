@@ -35,7 +35,7 @@ class CatalogController < ApplicationController
 	  config.index.thumbnail_field = 'Image'
 
     # solr field configuration for document/show views
-    config.show.title_field = 'title_display'
+    config.show.title_field = 'Title'
     config.show.display_type_field = 'format'
 
     # solr fields that will be treated as facets by the blacklight application
@@ -61,9 +61,13 @@ class CatalogController < ApplicationController
     config.add_facet_field 'pub_date', :label => 'Publication Year', :single => true
     config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20 
     config.add_facet_field 'language_facet', :label => 'Language', :limit => true 
-    config.add_facet_field 'lc_1letter_facet', :label => 'Call Number' 
-    config.add_facet_field 'subject_geo_facet', :label => 'Region' 
-    config.add_facet_field 'subject_era_facet', :label => 'Era'  
+    config.add_facet_field 'Provider', :label => 'Provider'
+    config.add_facet_field 'Grades', :label => 'Grades'
+    config.add_facet_field 'Subjects', :label => 'Subjects'
+    config.add_facet_field 'Domains', :label => 'Domains'
+    config.add_facet_field 'lc_1letter_facet', :label => 'Call Number', :show => false
+    config.add_facet_field 'subject_geo_facet', :label => 'Region', :show => false
+    config.add_facet_field 'subject_era_facet', :label => 'Era', :show => false
 
     config.add_facet_field 'example_pivot_field', :label => 'Pivot Field', :pivot => ['format', 'language_facet']
 
