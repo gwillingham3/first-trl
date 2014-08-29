@@ -13,6 +13,9 @@
          </span>
          <% #= link_to_document document, :label=>document_show_link_field(document), :counter => counter %>
         </h5>
+		
+		<% # adding extra description and info stuff to document in a popover button -%>
+		<input type="button" title="More info" class="btn btn-lg btn-danger bs-docs-popover-dismiss" data-toggle="popover" data-content="Stuff" data-original-title="More info">More info</input>
 
         <% # bookmark functions for items/docs -%>
         <%= render_index_doc_actions document, :wrapping_class => "index-document-functions col-sm-3 col-lg-2" %>
