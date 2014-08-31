@@ -32,7 +32,7 @@ class CatalogController < ApplicationController
     # solr field configuration for search results/index views
     config.index.title_field = 'Title'
     config.index.display_type_field = 'format'
-	  config.index.thumbnail_field = 'Image'
+	config.index.thumbnail_field = 'Image'
 
     # solr field configuration for document/show views
     config.show.title_field = 'Title'
