@@ -39,6 +39,10 @@ gem 'bootswatch-rails'
 
 gem 'blacklight-gallery'
 
+gem 'spreadsheet'
+
+gem 'rubyXL'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
