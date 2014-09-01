@@ -14,6 +14,8 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require bootstrap
+//= require bootstrap/tooltip.js
+//= require bootstrap/popover.js
 //
 // Required by Blacklight
 //= require blacklight/blacklight
