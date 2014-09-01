@@ -20,3 +20,7 @@
 // Required by Blacklight
 //= require blacklight/blacklight
 //= require_tree .
+
+$(function () {
+$('.popover-test').popover({target: "click"});
+})
