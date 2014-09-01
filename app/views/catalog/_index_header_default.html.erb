@@ -15,7 +15,12 @@
         </h5>
 		
 		<% # adding extra description and info stuff to document in a popover button -%>
-		<input type="button" title="More info" class="btn btn-lg btn-danger bs-docs-popover-dismiss" data-toggle="popover" data-content="Stuff" data-original-title="More info">More info</input>
+		<button type="button" class="btn btn-lg" data-content="Popover Content" data-toggle="popover" data-title="More info" aria-describedby="popover1">More info</button>
+			<div class="popover fade bottom in" role="tooltip" id="popover1">
+				<div class="arrow"></div>
+				<h3 class="popover-title">More info</h3>
+				<div class="popover-content">Stuff</div>
+			</div>
 
         <% # bookmark functions for items/docs -%>
         <%= render_index_doc_actions document, :wrapping_class => "index-document-functions col-sm-3 col-lg-2" %>
