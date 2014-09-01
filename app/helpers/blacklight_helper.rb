@@ -14,6 +14,6 @@ module BlacklightHelper
     # first, the legacy template names for backwards compatbility
     # followed by the new, inheritable style
     # finally, a controller-specific path for non-catalog subclasses
-    @document_index_path_templates ||= ["catalog/document_gallery"]
+    @document_index_path_templates ||= ["document_%{index_view_type}", "catalog/document_%{index_view_type}", "catalog/document_list"]
   end
 end
