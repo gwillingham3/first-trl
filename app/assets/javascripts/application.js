@@ -19,6 +19,5 @@
 //= require blacklight/blacklight
 //= require_tree .
 
-$(function () {
-$('.popover-test').popover({html: true, target: "click"});
-})
+
+$('.popover-test').popover({ html: true })
