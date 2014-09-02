@@ -22,6 +22,9 @@
 $(function () {
 $('.popover-test').popover({ html: true, target: "click", content: function() { return $('.mycontent').html();}
 	})
+$('.popover-test').on('shown.bs.popover', function () {
+	$('.popover-test').popover('show');
+})
 $('.popover-test').on('hidden.bs.popover', function () {
 	$('.popover-test').popover('destroy');
 })
