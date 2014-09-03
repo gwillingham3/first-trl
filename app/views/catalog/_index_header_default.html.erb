@@ -18,7 +18,7 @@
 		<button type="button" class="btn btn-lg popover-test btn-primary btn-block" data-toggle="popover" data-trigger="click" data-container="body"
 		data-placement="bottom" data-html="true" data-title="More info" data-contentwrapper="mycontent">More info</button>
 		
-		<div class="mycontent" style="display: none">
+		<div class="mycontent" style="display: block">
 			<dl class="clearfix">
 				<% document_show_fields(document).each do |solr_fname, field| -%>
 					<% if should_render_show_field? document, field %>
