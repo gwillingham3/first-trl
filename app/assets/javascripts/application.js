@@ -20,6 +20,6 @@
 //= require_tree .
 
 $(function () {
-$('.popover-test').popover({ html: true, target: "click", content: function() { return $('.mycontent').each( $('.mycontent').html() );}
+$('.popover-test').popover({ html: true, target: "click", content: function() { return $('.mycontent').html(function() { return $('.mycontent').html();});}
 	})
 })
