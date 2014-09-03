@@ -19,7 +19,7 @@
 		data-placement="bottom" data-html="true" data-title="More info" data-contentwrapper=".mycontent">More info</button>
 		
 		<div class="mycontent">
-			<%= render :partial => 'catalog/show_default' :locals => document %>
+			<%= render :partial => 'catalog/show_default', :locals => document %>
 			<% # bookmark functions for items/docs -%>
 			<%= render_index_doc_actions document, :wrapping_class => "index-document-functions" %>
 		</div>
