@@ -26,7 +26,7 @@ Use with Postgres database in production environment.
 Was deployed to Heroku and as such uses websolr instead of solr.
 This means you need to change the url in the solr.yml file used in production.
 (Instead of, 
-"url: <%= ENV['WEBSOLR_URL'] || "http://index.websolr.com/solr/fdd66d056ea" %>"
+"url: <%= ENV['WEBSOLR_URL'] || "http://index.websolr.com/solr/..." %>"
 it should be changed back to the default, 
 "url: <%= ENV['SOLR_URL'] || "http://127.0.0.1:8983/solr" %>".)
 
