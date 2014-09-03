@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 1.9.3
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation 
 
 * Database initialization
 
@@ -21,7 +21,14 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+Use with Postgres database in production environment. 
+
+Was deployed to Heroku and as such uses websolr instead of solr.
+This means you need to change the url in the solr.yml file used in production.
+(Instead of, 
+"url: <%= ENV['WEBSOLR_URL'] || "http://index.websolr.com/solr/fdd66d056ea" %>"
+it should be changed back to the default, 
+"url: <%= ENV['SOLR_URL'] || "http://127.0.0.1:8983/solr" %>".)
 
 
 Please feel free to use a different markup language if you do not plan to run
