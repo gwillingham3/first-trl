@@ -25,4 +25,3 @@ $('.popover-test').popover({ html: true, target: "click", content: function() { 
 $('.popover-test').on('shown.bs.popover', function () {
 	return $('.mycontent').html();});
 })
-})
