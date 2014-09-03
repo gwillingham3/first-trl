@@ -41,6 +41,8 @@ gem 'blacklight-gallery'
 
 gem 'spreadsheet'
 
+gem 'iron_cache'
+
 gem 'rubyXL'
 
 # Use unicorn as the app server
