@@ -29,9 +29,7 @@
 			</dl>
 			<% # bookmark functions for items/docs -%>
 			<%= render_index_doc_actions document, :wrapping_class => "index-document-functions" %>
-			<div id="sidebar">
-				<%= render_document_sidebar_partial %>
-			</div>
+			<%= render :partial => 'show_tools' %>
 		</div>
 		
         
