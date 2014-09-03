@@ -20,6 +20,6 @@
 //= require_tree .
 
 $(function () {
-$('.popover-test').popover({ html: true, target: "click", content: function() { return $('.mycontent').html('<div class="mycontent"> <dl class="clearfix"> <% document_show_fields(document).each do |solr_fname, field| -%> <% if should_render_show_field? document, field %> <dt class="blacklight-<%= solr_fname.parameterize %>"><%= render_document_show_field_label document, :field => solr_fname %></dt> <dd class="blacklight-<%= solr_fname.parameterize %>"><%= render_document_show_field_value document, :field => solr_fname %></dd> <% end -%> <% end -%> </dl> <% # bookmark functions for items/docs -%> <%= render_index_doc_actions document, :wrapping_class => "index-document-functions" %> </div>');}
+$('.popover-test').popover({ html: true, target: "click", content: function() { return $($(this).data('.mycontent').html('<div class="mycontent"> <dl class="clearfix"> <% document_show_fields(document).each do |solr_fname, field| -%> <% if should_render_show_field? document, field %> <dt class="blacklight-<%= solr_fname.parameterize %>"><%= render_document_show_field_label document, :field => solr_fname %></dt> <dd class="blacklight-<%= solr_fname.parameterize %>"><%= render_document_show_field_value document, :field => solr_fname %></dd> <% end -%> <% end -%> </dl> <% # bookmark functions for items/docs -%> <%= render_index_doc_actions document, :wrapping_class => "index-document-functions" %> </div>'));}
 	})
 })
