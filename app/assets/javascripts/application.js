@@ -15,6 +15,7 @@
 //= require turbolinks
 //= require bootstrap.min
 //= require jquery.infinite-pages
+//= require spaghetti
 //= require infinitescrolling
 //
 // Required by Blacklight
@@ -22,6 +23,6 @@
 //= require_tree .
 
 $(function () {
-$('.popover-test').popover({ html: true, target: "click", content: function() { return $('.mycontent').html();}
+$('.popover-test').popover({ html: true, target: "click", content: function() { return $('div.mycontent').html();}
 	})
 })

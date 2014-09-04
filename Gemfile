@@ -22,6 +22,7 @@ gem 'foreman', '0.61'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
+gem 'jquery-ui-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
@@ -54,6 +55,8 @@ gem 'kaminari'
 gem 'jquery-infinite-pages'
 
 gem 'infinitescrolling-rails'
+
+gem 'spaghetti'
 
 # Use unicorn as the app server
 # gem 'unicorn'
