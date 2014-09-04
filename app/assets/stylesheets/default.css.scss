@@ -20,18 +20,18 @@
   .document-counter {
     display: none;
   }
-  
-  .button.btn.btn-lg.popover-test.btn-primary.btn-block {
-    position: absolute;
-	bottom: 30px;
-	border-top: 1px solid whitesmoke;
-	width: 87.1%;
-  }
 
   .index-document-functions {
     clear: left;
   }
 }
+
+.button.btn.btn-lg.popover-test.btn-primary.btn-block {
+    position: absolute;
+	bottom: 30px;
+	border-top: 1px solid whitesmoke;
+	width: 87.1%;
+  }
 
 .view-icon-gallery {
   &:before { content: "\e011"; } 
