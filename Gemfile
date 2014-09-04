@@ -53,6 +53,8 @@ gem 'kaminari'
 
 gem 'jquery-infinite-pages'
 
+gem 'infinitescrolling-rails'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 

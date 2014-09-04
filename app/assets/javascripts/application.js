@@ -15,6 +15,7 @@
 //= require turbolinks
 //= require bootstrap.min
 //= require jquery.infinite-pages
+//= require infinitescrolling
 //
 // Required by Blacklight
 //= require blacklight/blacklight
