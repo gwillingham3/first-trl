@@ -19,6 +19,12 @@
   .document-counter {
     display: none;
   }
+  
+  .button {
+    position: absolute;
+	bottom: 0px;
+	border-top: 1px solid whitesmoke;
+  }
 
   .index-document-functions {
     clear: left;
