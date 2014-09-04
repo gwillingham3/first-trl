@@ -14,16 +14,18 @@
   
   .index_title {
     width: 100%;
+	text-decoration: blink;
   }
 
   .document-counter {
     display: none;
   }
   
-  .button {
+  .button.btn.btn-lg.popover-test.btn-primary.btn-block {
     position: absolute;
-	bottom: 0px;
+	bottom: 30px;
 	border-top: 1px solid whitesmoke;
+	width: 87.1%;
   }
 
   .index-document-functions {
