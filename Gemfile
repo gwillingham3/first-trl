@@ -45,6 +45,14 @@ gem 'iron_cache'
 
 gem 'rubyXL'
 
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate'
+
+gem 'kaminari'
+
+gem 'jquery-infinite-pages'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
